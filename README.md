@@ -1,2 +1,2 @@
 # Python
-A personal repository to improve my skill on Python
+A personal repository to demonstrate my skill on Python.
