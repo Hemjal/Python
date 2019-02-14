@@ -1,4 +1,5 @@
 # Automatic Feedback System Solution.
+# Created by Md Abu Hemjal
 
 # This program provide a solution for generating feedback for the student.
 # This program can read a file which holds student records in the order:
@@ -17,7 +18,7 @@
 
 
 # Attention:
-# Usename and password both are : "TUT"
+# Username and password both are : "TUT"
 
 #simple operation: use username and password 'TUT'. then click login. Enter
 # file name 'record.csv' and enter student ID 1001 or 1002 or 1003. Then click generate
